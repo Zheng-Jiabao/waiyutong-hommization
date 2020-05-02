@@ -7,5 +7,13 @@
     "test": "make test"
   },
   "author": "zhengjiabao",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zheng-Jiabao/waiyutong-hommization.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Zheng-Jiabao/waiyutong-hommization/issues"
+  },
+  "homepage": "https://github.com/Zheng-Jiabao/waiyutong-hommization#readme"
 }
